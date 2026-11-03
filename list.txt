@@ -1,4 +1,5 @@
 Wein
+sparkling wine
 Bier
 Apfel
 Birne
